@@ -1,0 +1,12 @@
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParser.exe.config
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParser.exe
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParser.pdb
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParserLibrary.dll
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParserLibrary.pdb
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\obj\Debug\QueryToJsonParser.csprojResolveAssemblyReference.cache
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\obj\Debug\QueryToJsonParser.csproj.CoreCompileInputs.cache
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\obj\Debug\QueryToJsonParser.exe
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\obj\Debug\QueryToJsonParser.pdb
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\Newtonsoft.Json.xml
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParser\bin\Debug\QueryToJsonParserLibrary.dll.config

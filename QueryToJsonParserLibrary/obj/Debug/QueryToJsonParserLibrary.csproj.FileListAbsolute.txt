@@ -1,0 +1,8 @@
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\bin\Debug\QueryToJsonParserLibrary.dll
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\bin\Debug\QueryToJsonParserLibrary.pdb
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\obj\Debug\QueryToJsonParserLibrary.csproj.CoreCompileInputs.cache
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\obj\Debug\QueryToJsonParserLibrary.dll
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\obj\Debug\QueryToJsonParserLibrary.pdb
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\krishsa\Desktop\QueryToJsonParser\QueryToJsonParserLibrary\bin\Debug\QueryToJsonParserLibrary.dll.config
